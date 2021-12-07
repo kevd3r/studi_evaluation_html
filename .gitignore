@@ -1,0 +1,6 @@
+
+# node files exclusion
+node_modules
+# .pdf files exclusion
+*.pdf
+
